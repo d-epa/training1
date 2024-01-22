@@ -6,6 +6,6 @@ public class STUDENT1 {
         this.dept =dept;
         this.rollno =rollno;
     }
-public void ghf
+public void ghf ww
 
 }
